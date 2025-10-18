@@ -28,26 +28,11 @@ Berikut adalah hasil output dari kedua script saat dijalankan di browser.
 
 ### 1\. Output `getWisata.php` (Raw JSON)
 
-[cite\_start]URL: `http://localhost/rekayasaweb/pertemuan2/getWisata.php` [cite: 35]
-
-```json
-[
-  {"id_wisata":"1","kota":"SEMARANG","landmark":"LAWANG SEWU","tarif":"20000"},
-  {"id_wisata":"2","kota":"YOGYAKARTA","landmark":"PRAMBANAN","tarif":"35000"},
-  {"id_wisata":"3","kota":"MAGELANG","landmark":"BOROBUDUR","tarif":"45000"},
-  {"id_wisata":"4","kota":"SURAKARTA","landmark":"PGS","tarif":"GRATIS"}
-]
-```
-
-*(Catatan: Ganti screenshot ini dengan hasil dari browser kamu)*
+![Hasil getWisata.php](https://raw.githubusercontent.com/BernardusBima/Tugas2/main/images/screenshot1.jpg)
 
 ### 2\. Output `tampilWisata.php` (Tabel HTML)
 
-[cite\_start]URL: `http://localhost/rekayasaweb/pertemuan2/tampilWisata.php` [cite: 60]
-
-[cite\_start]*(Catatan: Ganti URL gambar di atas dengan URL screenshot hasil tabel HTML kamu sendiri. Gambar di atas adalah representasi berdasarkan PDF [cite: 65])*
-
------
+![Hasil tampilWisata.php](https://raw.githubusercontent.com/BernardusBima/Tugas2/main/images/screenshot2.jpg)
 
 ## ⚙️ Teknologi yang Digunakan
 
