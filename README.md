@@ -52,7 +52,7 @@ Untuk menjalankan script ini di lingkungan lokal, ikuti langkah-langkah berikut:
 1.  **Clone Repositori**
 
     ```bash
-    git clone [URL-REPOSITORI-KAMU]
+    git clone [https://github.com/BernardusBima/Tugas2.git]
     ```
 
 2.  **Pindahkan Folder**
