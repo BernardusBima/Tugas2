@@ -28,11 +28,11 @@ Berikut adalah hasil output dari kedua script saat dijalankan di browser.
 
 ### 1\. Output `getWisata.php` (Raw JSON)
 
-![Hasil getWisata.php](https://raw.githubusercontent.com/BernardusBima/Tugas2/main/images/screenshot1.jpg)
+![Hasil getWisata.php](https://raw.githubusercontent.com/BernardusBima/Tugas2/main/images/Screenshot1.jpg)
 
 ### 2\. Output `tampilWisata.php` (Tabel HTML)
 
-![Hasil tampilWisata.php](https://raw.githubusercontent.com/BernardusBima/Tugas2/main/images/screenshot2.jpg)
+![Hasil tampilWisata.php](https://raw.githubusercontent.com/BernardusBima/Tugas2/main/images/Screenshot2.jpg)
 
 ## ⚙️ Teknologi yang Digunakan
 
