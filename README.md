@@ -107,6 +107,6 @@ Untuk menjalankan script ini di lingkungan lokal, ikuti langkah-langkah berikut:
 ## 👨‍🎓 Informasi Mahasiswa
 
   * **Nama:** Bernardus Bima Satria
-  * **NIM/NPM:** G.231.23.0057
+  * **NIM :** G.231.23.0057
   * **Kelas:** Teknik Informatika A2
   * **Dosen Pengampu:** Dicky Yudha Pratama, M.Kom
